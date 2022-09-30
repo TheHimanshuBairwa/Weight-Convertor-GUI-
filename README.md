@@ -1,5 +1,10 @@
-# Weight-Convertor-GUI-
+# Graphical User Interface (GUI)
 
+-> Graphical User Interface or GUI is a user interface that allows a user to interact with a computer by using clicks and buttons.
+
+-> Python offers multiple options for developing GUI (Graphical User Interface). Out of all the GUI methods, tkinter is the most commonly used method. It is a standard Python interface to the Tk GUI toolkit shipped with Python.
+
+# eight-Convertor-GUI-
 -> Weight conversion means to multiply the value of a unit with the standard conversion value. In this Project, I will take you through how to create a weight converter GUI with Python programming language.
 
 1. 1 milligram = 0.001 gram

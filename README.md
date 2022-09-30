@@ -15,6 +15,6 @@
 6. 1 ton = 2000 pounds
 7. 1 pound = 16 ounces
 
-
+# GUI output window
 <img width="675" alt="Screenshot 2022-09-30 at 11 08 17 AM" src="https://user-images.githubusercontent.com/88283732/193198154-09dc734f-3620-4917-a36e-d47c6965f421.png">
 

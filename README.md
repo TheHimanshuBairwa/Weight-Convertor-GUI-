@@ -4,8 +4,8 @@
 
 1. 1 milligram = 0.001 gram
 2. 1 centigram = 0.01 gram
-3. decigram = 0.1 gram
-4. kilogram = 1000 grams
+3. 1 decigram = 0.1 gram
+4. 1 kilogram = 1000 grams
 5. 1 gram = 1000 milligrams
 6. 1 ton = 2000 pounds
 7. 1 pound = 16 ounces
